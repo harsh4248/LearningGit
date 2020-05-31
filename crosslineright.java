@@ -20,5 +20,6 @@ class crosslineright
 			}
 			System.out.println("");
 		}
+		System.out.println("complete");
 	}
 }
